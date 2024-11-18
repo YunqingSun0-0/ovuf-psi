@@ -1,6 +1,6 @@
 * This project relies on emp and relic library.
 * To install emp, refer to https://github.com/emp-toolkit/emp-tool, https://github.com/emp-toolkit/emp-ot
-* To install relic, refer to https://github.com/relic-toolkit/relic. We use the preset of BLS128 curve.
+* To install relic, refer to https://github.com/relic-toolkit/relic. Please checkout to 91e2d86dbc8668dc562b189e74815c4857710d38. We use the preset of BLS128 curve.
 
 ## Test
 * Private Set Generation
